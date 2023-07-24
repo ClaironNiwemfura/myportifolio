@@ -16,9 +16,10 @@
 .list{
     display: flex;
     list-style: none;
+    justify-content: end;
     padding: 10px;
     margin-left:500px;
-    margin-top: -40px;
+    margin-top: -35px;
     text-align: left;
     text-indent: 40px;
 
@@ -78,6 +79,7 @@
  .bp{
     color: white;
     padding: 20px;
+    
     
  }
  .bp p{

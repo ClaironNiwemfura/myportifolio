@@ -17,10 +17,11 @@
 }
 .list{
     display: flex;
+    justify-content: end;
     list-style: none;
     padding: 10px;
     margin-left:500px;
-    margin-top: -40px;
+    margin-top: -35px;
     text-align: left;
     text-indent: 40px;
 
@@ -52,14 +53,14 @@
  }
 .img1{
     background-color: black;
-    height: 100vh;
+    /* height: 100vh; */
     width: 100%;
      background-repeat: no repeat;
      /* opacity: 0.8; */
  
 }
 .img2 img{
-    border-radius:500px; 
+    border-radius:90%; 
     /* background-image: url(/images/clairafter.jpg); */
     height: 400px;
     width:300 px;
@@ -159,10 +160,7 @@
     align-items: center;
 }
 
-/* i{
-    height:50px;
-    width:40px;
-} */
+
 
 
 

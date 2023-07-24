@@ -15,10 +15,11 @@
 }
 .list{
     display: flex;
+    justify-content:end ;
     list-style: none;
     padding: 10px;
     margin-left:500px;
-    margin-top: -40px;
+    margin-top: -35px;
     text-align: left;
     text-indent: 40px;
 
@@ -74,4 +75,7 @@ body h3{
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+.bo p{
+    color:white;
 }
